@@ -7,7 +7,7 @@
 Collection: Celebration
 
 * House Body: Snug As A Bug (warm light gray)
-* House Trim: (worm dark gray)
+* House Trim: (warm dark gray)
 * House Accent: Copper (orange)
 * Eaves: (sky blue)
 
