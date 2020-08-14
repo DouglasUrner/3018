@@ -2,9 +2,9 @@
 
 ## Interior
 
-## Exterior
+Collection: Celebration (from Lowe's)
 
-Collection: Celebration
+## Exterior
 
 * House Body: Snug As A Bug (warm light gray)
 * House Trim: Chocolate (warm dark gray), Valspar B=202 C=294 I=237
